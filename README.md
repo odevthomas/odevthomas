@@ -1,6 +1,6 @@
 # 🚀 Thomas Eduardo - Desenvolvedor Web
+![capafullstack](https://github.com/user-attachments/assets/102b4d67-b93d-4ef2-89ed-bfa3e7eed294)
 
-![BannerGithub](https://github.com/user-attachments/assets/28e6bc7d-49e1-4bd5-aea8-507b4bcb59d3)
 
 ## 👨‍💻 Sobre Mim
 
