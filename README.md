@@ -1,4 +1,4 @@
-# 🚀 Thomas Eduardo - Desenvolvedor Web
+# 🚀 Desenvolvedor Web
 ![capafullstack](https://github.com/user-attachments/assets/102b4d67-b93d-4ef2-89ed-bfa3e7eed294)
 
 
