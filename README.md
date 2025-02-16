@@ -3,7 +3,7 @@
 ![capafullstack]
 
 ## 🌐 Idiomas
-[🇧🇷 Português](link-para-portugues) | [🇺🇸 English]([link-para-ingles](https://github.com/odevthomas#-about-me))
+[🇧🇷 Português] | [🇺🇸 English]([#-about-me))
 
 ## 👨‍💻 Sobre Mim
 
