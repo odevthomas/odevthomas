@@ -3,19 +3,18 @@
 ![capafullstack]
 
 ## 🌐 Idiomas
-[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png)](link-para-portugues) 
-[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png)](link-para-ingles)
+[🇧🇷 Português](link-para-portugues) | [🇺🇸 English](link-para-ingles)
 
 ## 👨‍💻 Sobre Mim
 
 Olá! Sou Thomas Eduardo, um desenvolvedor frontend altamente proficiente com 2 anos de experiência na construção de aplicações web escaláveis e responsivas utilizando React.js e Next.js. Tenho um histórico comprovado em otimização de performance, redução de tempos de carregamento e melhoria da experiência do usuário.
 
 ### 🔥 Destaques Rápidos
-- **Especialista em Frontend**
-- **Expert em React & Next.js**
-- **Desenvolvedor Full Stack Júnior**
-- **Entusiasta de UI/UX**
-- **Aprendiz Contínuo**
+- **Especialista em Frontend** 💻
+- **Expert em React & Next.js** ⚛️
+- **Desenvolvedor Full Stack Júnior** 👨‍💻
+- **Entusiasta de UI/UX** 🎨
+- **Aprendiz Contínuo** 📚
 
 ## 🛠️ Arsenal Tecnológico
 
@@ -51,36 +50,13 @@ Olá! Sou Thomas Eduardo, um desenvolvedor frontend altamente proficiente com 2 
 ---
 
 ### 💬 Apaixonado por
-- Código Limpo
-- Otimização de Performance
-- Soluções Web Inovadoras
+- Código Limpo ✨
+- Otimização de Performance ⚡
+- Soluções Web Inovadoras 💡
 
 **Sempre aprendendo, sempre crescendo!** 🌱
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devthomas&style=flat-square)](https://github.com/devthomas)
-
-## 🏆 Projetos Principais
-
-### SLG Digital Marketing
-- **Cargo:** Desenvolvedor Full Stack Júnior
-- **Período:** Outubro 2024 - Janeiro 2025
-- Desenvolvi landing pages de alto impacto que geraram 35% mais conversões.
-- Implementação de interfaces responsivas e de alta performance utilizando React.js e Next.js.
-- Integração eficiente entre frontend em React e backend em Node.js, Express e MongoDB.
-- Aplicação de técnicas de UX/UI Design para aprimorar a experiência do usuário.
-- Análise constante de métricas e KPIs para orientar melhorias contínuas.
-
-### Casa L'Ellit
-- **Descrição:** Site oficial de um salão de beleza localizado em Cambuci, São Paulo.
-- **Objetivo:** Fornecer informações sobre serviços, facilitar agendamentos e criar uma presença digital forte.
-
-### Desenvolvimento de Assistente Virtual Automatizado
-- Criação de bot inteligente para Telegram utilizando Node.js.
-- Implementação de recursos avançados de comunicação e agendamento.
-- Integração completa com API do Telegram.
-- Desenvolvimento de interface conversacional humanizada.
-
----
 
 ### 📞 Contato
 - **Email:** developer.thomas@outlook.com.br
@@ -97,11 +73,11 @@ Olá! Sou Thomas Eduardo, um desenvolvedor frontend altamente proficiente com 2 
 Hello! I'm Thomas Eduardo, a highly proficient frontend developer with 2 years of experience building scalable and responsive web applications using React.js and Next.js. I have a proven track record in performance optimization, reducing load times, and enhancing user experience.
 
 ### 🔥 Quick Highlights
-- Frontend Specialist
-- Expert in React & Next.js
-- Junior Full Stack Developer
-- UI/UX Enthusiast
-- Continuous Learner
+- Frontend Specialist 💻
+- Expert in React & Next.js ⚛️
+- Junior Full Stack Developer 👨‍💻
+- UI/UX Enthusiast 🎨
+- Continuous Learner 📚
 
 ## 🛠️ Tech Arsenal
 
@@ -137,9 +113,9 @@ Hello! I'm Thomas Eduardo, a highly proficient frontend developer with 2 years o
 ---
 
 ### 💬 Passionate About
-- Clean Code
-- Performance Optimization
-- Innovative Web Solutions
+- Clean Code ✨
+- Performance Optimization ⚡
+- Innovative Web Solutions 💡
 
 **Always learning, always growing!** 🌱
 
