@@ -1,5 +1,4 @@
-# Desenvolvedor Web Full Stack
-
+![CAPA LINKEDIN](https://github.com/user-attachments/assets/dc4dfbdf-b11f-49fe-8caa-f7c3aae3911a)
 
 🌎 [🇧🇷 Português](#-sobre-mim) | [🇺🇸 English](#-about-me)
 
