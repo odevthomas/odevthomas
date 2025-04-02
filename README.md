@@ -22,10 +22,6 @@ Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack especializado em **React.
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript badge">
 </p>
-<ul>
-  <li>**React.js** | **Next.js** | **TypeScript** | **JavaScript**</li>
-  <li>**Node.js** | **Express.js** | **MongoDB**</li>
-</ul>
 
 ---
 
@@ -35,9 +31,6 @@ Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack especializado em **React.
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma badge">
   <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components badge">
 </p>
-<ul>
-  <li>**Tailwind CSS** | **Figma** | **Styled Components**</li>
-</ul>
 
 ---
 
@@ -48,9 +41,7 @@ Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack especializado em **React.
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker badge">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS badge">
 </p>
-<ul>
-  <li>**Git** | **Vercel** | **Docker** | **AWS**</li>
-</ul>
+
 
 ---
 
@@ -96,10 +87,6 @@ Hello! I'm **Thomas Eduardo**, a Full Stack Developer specializing in **React.js
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript badge">
 </p>
-<ul>
-  <li>**React.js** | **Next.js** | **TypeScript** | **JavaScript**</li>
-  <li>**Node.js** | **Express.js** | **MongoDB**</li>
-</ul>
 
 ---
 
@@ -109,9 +96,7 @@ Hello! I'm **Thomas Eduardo**, a Full Stack Developer specializing in **React.js
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma badge">
   <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components badge">
 </p>
-<ul>
-  <li>**Tailwind CSS** | **Figma** | **Styled Components**</li>
-</ul>
+
 
 ---
 
@@ -122,9 +107,7 @@ Hello! I'm **Thomas Eduardo**, a Full Stack Developer specializing in **React.js
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker badge">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS badge">
 </p>
-<ul>
-  <li>**Git** | **Vercel** | **Docker** | **AWS**</li>
-</ul>
+
 
 ---
 
