@@ -6,8 +6,8 @@
 
 ---
 <p align="center">
-  <img src="https://link-da-imagem/avatar.png" width="150" alt="Avatar de Thomas Eduardo"/>
-</p>
+![CAPA LINKEDIN](https://github.com/user-attachments/assets/3e5d71dc-efac-4cc4-ab8c-50022c8b4ee6)
+
 
 # Sobre Mim
 
