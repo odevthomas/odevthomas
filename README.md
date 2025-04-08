@@ -5,9 +5,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://link-da-imagem/avatar.png" width="150" alt="Avatar de Thomas Eduardo"/>
+</p>
 
-#  Sobre Mim 
- E aí! Eu sou o Thomas Eduardo. Trabalho como desenvolvedor full stack com foco em frontend — usando React, Next.js e TypeScript quase todo dia.
+# Sobre Mim
+
+E aí! Eu sou o Thomas Eduardo. Trabalho como desenvolvedor full stack com foco em frontend — usando React, Next.js e TypeScript quase todo dia.
 
 Já participei de projetos de e-commerce, sistemas internos e plataformas que precisavam ser rápidas, estáveis e fáceis de manter. Gosto de código limpo, de resolver o que trava, e de entregas que fazem sentido de verdade pra quem vai usar.
 
@@ -26,33 +30,10 @@ No back, costumo usar Node e Firebase quando o projeto pede. No front, não abro
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Stack (Visual)
 
-### Linguagens & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
-
----
-
-### UI & Design
-<p>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-</p>
-
----
-
-### Ferramentas e Infra
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
 </p>
 
 ---
@@ -98,33 +79,10 @@ My goal is to ship stuff that works, is easy to improve later, and doesn’t bec
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Visual)
 
-### Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
-
----
-
-### UI & Styling
-<p>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-</p>
-
----
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
 </p>
 
 ---
