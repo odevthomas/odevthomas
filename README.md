@@ -6,8 +6,7 @@
 
 ---
 
-#  Sobre Mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Call%20Me%20Hand.webp" alt="Call Me Hand" width="50" height="50" />
-
+#  Sobre Mim 
  E aí! Eu sou o Thomas Eduardo. Trabalho como desenvolvedor full stack com foco em frontend — usando React, Next.js e TypeScript quase todo dia.
 
 Já participei de projetos de e-commerce, sistemas internos e plataformas que precisavam ser rápidas, estáveis e fáceis de manter. Gosto de código limpo, de resolver o que trava, e de entregas que fazem sentido de verdade pra quem vai usar.
