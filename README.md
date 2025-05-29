@@ -43,11 +43,6 @@ No backend, uso **Node.js e Firebase** quando o projeto pede agilidade. No front
 
 ---
 
-## Onde me encontrar
-
-
----
-
 # 🇺🇸 
 
 Hey there! I'm Thomas Eduardo, a full stack developer who thrives on the frontend. I use **React, Next.js, and TypeScript** almost daily to build fast, reliable, and scalable web apps.
