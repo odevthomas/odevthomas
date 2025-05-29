@@ -6,28 +6,26 @@
 
 ---
 
-# Sobre Mim
+E aí! Eu sou o Thomas Eduardo, desenvolvedor full stack com foco em frontend. Trabalho principalmente com **React, Next.js, TypeScript** e ferramentas modernas para entregar **sites rápidos, responsivos e com código limpo**.
 
-E aí! Eu sou o Thomas Eduardo. Trabalho como desenvolvedor full stack com foco em frontend — usando React, Next.js e TypeScript quase todo dia.
+Participei de projetos de e-commerce, sistemas internos e páginas de alta performance — sempre buscando soluções diretas, sem gambiarra. Meu código é feito pensando no próximo dev que vai mexer ali.
 
-Já participei de projetos de e-commerce, sistemas internos e plataformas que precisavam ser rápidas, estáveis e fáceis de manter. Gosto de código limpo, de resolver o que trava, e de entregas que fazem sentido de verdade pra quem vai usar.
-
-No back, costumo usar Node e Firebase quando o projeto pede. No front, não abro mão de performance, acessibilidade e boas práticas de UI. Meu objetivo é simples: entregar algo que funcione bem, seja fácil de escalar e não vire um problema depois.
+No backend, uso **Node.js e Firebase** quando o projeto pede agilidade. No frontend, desempenho, acessibilidade e boas práticas são prioridade. Gosto de criar interfaces que **não quebram e não cansam**.
 
 ---
 
-## 🔧 Coisas que tenho feito
+## O que tenho feito na prática
 
 <ul>
-  <li>Construção de interfaces com React + Tailwind</li>
-  <li>Integração de APIs REST e Firebase (auth, db, notificação)</li>
-  <li>Melhorias em SEO técnico e Core Web Vitals</li>
-  <li>Deploy com Vercel, CI/CD e testes automatizados</li>
+  <li>Criação de interfaces com React + Tailwind + UI/UX</li>
+  <li>Integração com APIs REST e Firebase (auth, db, notificação)</li>
+  <li>Melhorias de SEO técnico, Core Web Vitals e Lighthouse</li>
+  <li>Deploy com Vercel, CI/CD (GitHub Actions) e testes</li>
 </ul>
 
 ---
 
-## ⚙️ Stack (Visual)
+##  Stack 
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
@@ -35,69 +33,44 @@ No back, costumo usar Node e Firebase quando o projeto pede. No front, não abro
 
 ---
 
-## 🚀 Agora estou focando em:
+##  Agora estou focando em:
 
 <ul>
-  <li>Melhorar minhas skills com Next.js e SSR</li>
-  <li>Me aprofundar em CI/CD e testes</li>
-  <li>Contribuir com projetos open source</li>
+  <li>Aprofundar SSR e rotas dinâmicas com Next.js</li>
+  <li>Melhorar minhas skills em CI/CD e testes automatizados</li>
+  <li>Contribuir com projetos open source que impactam devs reais</li>
 </ul>
 
 ---
 
-## 🔗 Contato
+## Onde me encontrar
+
+
+---
+
+# 🇺🇸 
+
+Hey there! I'm Thomas Eduardo, a full stack developer who thrives on the frontend. I use **React, Next.js, and TypeScript** almost daily to build fast, reliable, and scalable web apps.
+
+I’ve worked on e-commerce sites, internal systems, and performance-focused platforms. On the backend, I use **Node.js and Firebase** when it makes sense. On the frontend, I focus on accessibility, performance, and UI clarity — I write code that works and stays readable.
+
+My style is clean, practical, and built for real-world users (and real-world teams).
+
+---
+
+##  What I've been working on
 
 <ul>
-  <li><a href="https://linkedin.com/in/odevthomas" target="_blank">LinkedIn</a></li>
-  <li><a href="https://www.devthm.site/" target="_blank">Portfólio</a></li>
-  <li><a href="mailto:developer.thomas@outlook.com.br">📧 Email</a></li>
+  <li>UI development with React + Tailwind + UX thinking</li>
+  <li>REST API integrations and Firebase (auth, db, push)</li>
+  <li>SEO improvements, Core Web Vitals tuning</li>
+  <li>Deploys with Vercel + GitHub Actions + automated tests</li>
 </ul>
 
 ---
 
-# 🇺🇸 About Me
-
-Hey there! I'm Thomas Eduardo, a full stack developer — but frontend is where I spend most of my time.
-
-I usually work with React, Next.js, and TypeScript. I’ve been part of projects like e-commerce platforms, internal tools, and dashboards that needed to be fast, clean, and reliable. On the backend, I use Node and Firebase when it makes sense. On the frontend, I care about performance, accessibility, and clean code.
-
-My goal is to ship stuff that works, is easy to improve later, and doesn’t become a problem in a few months.
-
----
-
-## 👨‍🔧 Things I’ve been building
-
-<ul>
-  <li>Interfaces with React + Tailwind</li>
-  <li>API integrations with REST and Firebase</li>
-  <li>SEO and Core Web Vitals improvements</li>
-  <li>Deploys with Vercel + CI/CD + tests</li>
-</ul>
-
----
-
-## 🛠️ Tech Stack (Visual)
-
+##  Tech Stack 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
 </p>
 
----
-
-## 🔭 What I’m focusing on now
-
-<ul>
-  <li>Diving deeper into Next.js and SSR</li>
-  <li>Getting better with CI/CD and testing</li>
-  <li>Contributing to open source</li>
-</ul>
-
----
-
-## 🔗 Let’s Connect
-
-<ul>
-  <li><a href="https://linkedin.com/in/odevthomas" target="_blank">LinkedIn</a></li>
-  <li><a href="https://www.devthm.site/" target="_blank">Portfolio</a></li>
-  <li><a href="mailto:developer.thomas@outlook.com.br">📧 Email</a></li>
-</ul>
