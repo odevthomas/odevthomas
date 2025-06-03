@@ -4,6 +4,10 @@
   <a href="#-about-me">🇺🇸 English</a>
 </p>
 
+![capalinkedin](https://github.com/user-attachments/assets/c051a319-8a5f-48a0-99a0-789abe87ab8e)
+
+
+
 ---
 
 E aí! Eu sou o Thomas Eduardo, desenvolvedor full stack com foco em frontend. Trabalho principalmente com **React, Next.js, TypeScript** e ferramentas modernas para entregar **sites rápidos, responsivos e com código limpo**.
