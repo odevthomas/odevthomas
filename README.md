@@ -6,70 +6,66 @@
 
 ![capalinkedin](https://github.com/user-attachments/assets/c051a319-8a5f-48a0-99a0-789abe87ab8e)
 
+---
 
+## 👨‍💻 Sobre mim
+
+Sou **Thomas Eduardo R. Nascimento**, desenvolvedor Full Stack com 3 anos de experiência em projetos web e estudante de **Engenharia da Computação**. Tenho me especializado no ecossistema **React.js, Next.js e TypeScript**, com foco em criar interfaces modernas, acessíveis e otimizadas.
+
+Já atuei em aplicações de diversos escopos, de e-commerces a sistemas internos, integrando APIs REST, implementando autenticação segura com JWT e gerenciando deploys com **CI/CD, Vercel e AWS**. Também possuo mais de 6 anos de experiência em atendimento ao cliente, o que fortalece minha visão centrada no usuário.
 
 ---
 
-E aí! Eu sou o Thomas Eduardo, desenvolvedor full stack com foco em frontend. Trabalho principalmente com **React, Next.js, TypeScript** e ferramentas modernas para entregar **sites rápidos, responsivos e com código limpo**.
-
-Participei de projetos de e-commerce, sistemas internos e páginas de alta performance — sempre buscando soluções diretas, sem gambiarra. Meu código é feito pensando no próximo dev que vai mexer ali.
-
-No backend, uso **Node.js e Firebase** quando o projeto pede agilidade. No frontend, desempenho, acessibilidade e boas práticas são prioridade. Gosto de criar interfaces que **não quebram e não cansam**.
-
----
-
-## O que tenho feito na prática
+## 🧠 O que aplico na prática
 
 <ul>
-  <li>Criação de interfaces com React + Tailwind + UI/UX</li>
-  <li>Integração com APIs REST e Firebase (auth, db, notificação)</li>
-  <li>Melhorias de SEO técnico, Core Web Vitals e Lighthouse</li>
-  <li>Deploy com Vercel, CI/CD (GitHub Actions) e testes</li>
+  <li>Desenvolvimento de interfaces com React, Tailwind e foco em UX</li>
+  <li>Integração com APIs REST, autenticação JWT e Firebase</li>
+  <li>SEO técnico, otimização de performance e Core Web Vitals</li>
+  <li>Deploys com CI/CD, Vercel, GitHub Actions e AWS</li>
 </ul>
 
 ---
 
-##  Stack 
+## ⚙️ Stack Principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,nodejs,firebase,git,vercel,docker,aws&perline=7" />
 </p>
 
 ---
 
-##  Agora estou focando em:
+## 🚀 Atualmente focado em
 
 <ul>
-  <li>Aprofundar SSR e rotas dinâmicas com Next.js</li>
-  <li>Melhorar minhas skills em CI/CD e testes automatizados</li>
-  <li>Contribuir com projetos open source que impactam devs reais</li>
+  <li>Aprimorar SSR, SSG e rotas avançadas com Next.js</li>
+  <li>Automação de testes e pipelines CI/CD eficientes</li>
+  <li>Contribuição em projetos open source e experiências com DevOps</li>
 </ul>
 
 ---
 
-# 🇺🇸 
+## 🇺🇸 About Me
 
-Hey there! I'm Thomas Eduardo, a full stack developer who thrives on the frontend. I use **React, Next.js, and TypeScript** almost daily to build fast, reliable, and scalable web apps.
+Hi! I’m **Thomas Eduardo R. Nascimento**, a Full Stack developer with 3 years of experience and currently pursuing a degree in **Computer Engineering**. My focus is on **React, Next.js, and TypeScript**, building responsive and secure web apps.
 
-I’ve worked on e-commerce sites, internal systems, and performance-focused platforms. On the backend, I use **Node.js and Firebase** when it makes sense. On the frontend, I focus on accessibility, performance, and UI clarity — I write code that works and stays readable.
-
-My style is clean, practical, and built for real-world users (and real-world teams).
+I’ve worked on e-commerce sites, dashboards, and fast-loading websites. I value performance, accessibility, and clean code. I also bring 6+ years of experience in customer service, helping me understand real-world user needs.
 
 ---
 
-##  What I've been working on
+## 🛠️ What I Work On
 
 <ul>
-  <li>UI development with React + Tailwind + UX thinking</li>
-  <li>REST API integrations and Firebase (auth, db, push)</li>
-  <li>SEO improvements, Core Web Vitals tuning</li>
-  <li>Deploys with Vercel + GitHub Actions + automated tests</li>
+  <li>UI development with React, Tailwind CSS and UX best practices</li>
+  <li>RESTful APIs integration and secure auth with JWT & Firebase</li>
+  <li>Web performance, SEO, and Lighthouse improvements</li>
+  <li>Deploys via CI/CD, GitHub Actions, Vercel and AWS</li>
 </ul>
 
 ---
 
-##  Tech Stack 
+## 💼 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,firebase,nodejs,git,docker,vercel,aws&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,nodejs,firebase,git,vercel,docker,aws&perline=7" />
 </p>
-
