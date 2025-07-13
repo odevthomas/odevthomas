@@ -4,26 +4,31 @@
   <a href="#-about-me">🇺🇸 English</a>
 </p>
 
-![capalinkedin](https://github.com/user-attachments/assets/c051a319-8a5f-48a0-99a0-789abe87ab8e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c051a319-8a5f-48a0-99a0-789abe87ab8e" alt="LinkedIn Cover" />
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Thomas Eduardo R. Nascimento**, desenvolvedor Full Stack com 3 anos de experiência em projetos web e estudante de **Engenharia da Computação**. Tenho me especializado no ecossistema **React.js, Next.js e TypeScript**, com foco em criar interfaces modernas, acessíveis e otimizadas.
+Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack com foco em criar soluções digitais que **unem performance, experiência do usuário e SEO técnico**. 
 
-Já atuei em aplicações de diversos escopos, de e-commerces a sistemas internos, integrando APIs REST, implementando autenticação segura com JWT e gerenciando deploys com **CI/CD, Vercel e AWS**. Também possuo mais de 6 anos de experiência em atendimento ao cliente, o que fortalece minha visão centrada no usuário.
+🧠 Com mais de **3 anos de experiência em React.js, Next.js e TypeScript**, desenvolvo aplicações modernas e otimizadas, com design responsivo e código limpo. Tenho base sólida em Engenharia da Computação e foco em resolver **problemas reais com tecnologia aplicada**.
+
+🔧 Já desenvolvi de **painéis administrativos completos** a **landing pages comerciais** de alta conversão, usando boas práticas de acessibilidade, autenticação JWT e deploy contínuo em Vercel/AWS.
+
+🎯 Além do código, trago experiência prática em comunicação, atendimento ao cliente e colaboração com equipes multidisciplinares.
 
 ---
 
-## 🧠 O que aplico na prática
+## 🚀 O que aplico no dia a dia
 
-<ul>
-  <li>Desenvolvimento de interfaces com React, Tailwind e foco em UX</li>
-  <li>Integração com APIs REST, autenticação JWT e Firebase</li>
-  <li>SEO técnico, otimização de performance e Core Web Vitals</li>
-  <li>Deploys com CI/CD, Vercel, GitHub Actions e AWS</li>
-</ul>
+✔️ Interfaces modernas e acessíveis com **React + Tailwind**  
+✔️ Integração de APIs REST, **autenticação segura com JWT e Firebase**  
+✔️ Técnicas de **SEO técnico**, performance e Core Web Vitals  
+✔️ **Deploys automatizados (CI/CD)** com GitHub Actions, Vercel e AWS  
+✔️ Prototipação com **Figma** e UI centrada no usuário
 
 ---
 
@@ -35,37 +40,47 @@ Já atuei em aplicações de diversos escopos, de e-commerces a sistemas interno
 
 ---
 
-## 🚀 Atualmente focado em
+## 🛠️ Projetos em destaque
 
-<ul>
-  <li>Aprimorar SSR, SSG e rotas avançadas com Next.js</li>
-  <li>Automação de testes e pipelines CI/CD eficientes</li>
-  <li>Contribuição em projetos open source e experiências com DevOps</li>
-</ul>
+| Projeto | Descrição | Stack |
+|--------|------------|-------|
+| [BellaCucina](https://github.com/odevthomas/BellaCucina) | Sistema de gestão para restaurantes com login, dashboard e administração de pedidos. | Next.js, Tailwind, JWT, Zustand |
+| [Hazap Landing Page](https://github.com/odevthomas) | Página de vendas com botão animado de WhatsApp, performance otimizada e foco em conversão. | Next.js, Tailwind, SEO |
+| [Painel de Benefícios](https://github.com/odevthomas/Painel-de-Beneficios) | Plataforma para funcionários visualizarem e controlarem benefícios com UI interativa. | Next.js, Zustand, Chart.js |
+| [QR Code Pix](https://github.com/odevthomas/qr-code-brasil) | Geração dinâmica de QR Code Pix para microempreendedores. | TypeScript, Tailwind, Responsivo |
+
+---
+
+## 📚 Atualmente focado em
+
+- 🌐 **SSR, SSG e roteamento avançado com Next.js**
+- ⚙️ **Testes automatizados e pipelines eficientes**
+- 🌱 Contribuição open source e evolução DevOps
+- 📈 **Portfólio orientado a negócios reais**
 
 ---
 
 ## 🇺🇸 About Me
 
-Hi! I’m **Thomas Eduardo R. Nascimento**, a Full Stack developer with 3 years of experience and currently pursuing a degree in **Computer Engineering**. My focus is on **React, Next.js, and TypeScript**, building responsive and secure web apps.
+Hi! I'm **Thomas Eduardo**, a Full Stack Developer focused on **performance, UX and technical SEO**. I build modern, fast and accessible web apps using **React.js, Next.js and TypeScript**.
 
-I’ve worked on e-commerce sites, dashboards, and fast-loading websites. I value performance, accessibility, and clean code. I also bring 6+ years of experience in customer service, helping me understand real-world user needs.
+🎓 I'm currently pursuing a degree in **Computer Engineering**, and working on freelance projects that combine UI excellence with backend logic and solid infrastructure.
+
+💡 My background in customer service helps me listen, communicate and deliver user-friendly solutions.
 
 ---
 
 ## 🛠️ What I Work On
 
-<ul>
-  <li>UI development with React, Tailwind CSS and UX best practices</li>
-  <li>RESTful APIs integration and secure auth with JWT & Firebase</li>
-  <li>Web performance, SEO, and Lighthouse improvements</li>
-  <li>Deploys via CI/CD, GitHub Actions, Vercel and AWS</li>
-</ul>
+- UI development with **React, Tailwind CSS** and UX best practices  
+- REST API integration and **secure auth (JWT & Firebase)**  
+- SEO, Lighthouse audits and Core Web Vitals improvements  
+- CI/CD deploys with **Vercel, GitHub Actions and AWS**
 
 ---
 
-## 💼 Tech Stack
+## 📫 Let’s connect
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,figma,styledcomponents,nodejs,firebase,git,vercel,docker,aws&perline=7" />
-</p>
+- 🌐 [www.thomaseduardo.online](https://www.thomaseduardo.online)
+- 💼 [LinkedIn](https://linkedin.com/in/odevthomas)
+- 📧 thmedu@outlook.com
