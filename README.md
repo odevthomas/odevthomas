@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c051a319-8a5f-48a0-99a0-789abe87ab8e" alt="LinkedIn Cover" />
+  <img width="1128" height="191" alt="LINKEDIN" src="https://github.com/user-attachments/assets/7bff4f9a-5b09-4114-a66a-5f77799e37bd" />
+
 </p>
 
 ---
