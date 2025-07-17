@@ -17,22 +17,29 @@ Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack com foco em criar soluç�
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" />  Com mais de **2 anos de experiência em React.js, Next.js e TypeScript**, desenvolvo aplicações modernas e otimizadas, com design responsivo e código limpo. Tenho base sólida em Engenharia da Computação e foco em resolver **problemas reais com tecnologia aplicada**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" />  Já desenvolvi de **painéis administrativos completos** a **landing pages comerciais** de alta conversão, usando boas práticas de acessibilidade, autenticação JWT e deploy contínuo em Vercel/AWS.
-
-🎯 Além do código, trago experiência prática em comunicação, atendimento ao cliente e colaboração com equipes multidisciplinares.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" />  Já desenvolvi de **painéis administrativos completos** a **landing pages comerciais** de alta conversão, usando boas práticas de acessibilidade, autenticação JWT e deploy contínuo em Vercel/AWS. Além do código, trago experiência prática em comunicação, atendimento ao cliente e colaboração com equipes multidisciplinares.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Saluting%20Face.webp" alt="Saluting Face" width="25" height="25" /> O que aplico no dia a dia
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Interfaces modernas e acessíveis com **React + Tailwind**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Integração de APIs REST, **autenticação segura com JWT e Firebase**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Técnicas de **SEO técnico**, performance e Core Web Vitals  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> **Deploys automatizados (CI/CD)** com GitHub Actions, Vercel e AWS  
- 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="25" height="25" /> Prototipação com **Figma** e UI centrada no usuário
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="15" height="15" /> Interfaces modernas e acessíveis com **React + Tailwind** 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="15" height="15" /> Integração de APIs REST, **autenticação segura com JWT e Firebase**  
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="15" height="15" /> Técnicas de **SEO técnico**, performance e Core Web Vitals 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="15" height="15" /> **Deploys automatizados (CI/CD)** com GitHub Actions, Vercel e AWS  
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="15" height="15" /> Prototipação com **Figma** e UI centrada no usuário
 
 ---
+
+
+![Projeto 1](https://github.com/user-attachments/assets/fdc36e9f-ea51-4f5f-8b01-7acf67d655e7)
+
+---
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" />  Stack Principal
 
@@ -47,20 +54,33 @@ Olá! Sou **Thomas Eduardo**, desenvolvedor Full Stack com foco em criar soluç�
 
 
 
-  <img width="24" height="32" alt="image" src="https://github.com/user-attachments/assets/faafb412-bd07-4c84-8fa4-9e30ec938f63" />
-  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/b94f553d-5f46-4b31-87ee-a856cbcc0256" />
-  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/667d55e7-2873-4b5a-b1fa-90064fc8a4d9" />
-  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/2df97bea-1acd-4e51-b6cd-2a2f61a5fa3b" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/faafb412-bd07-4c84-8fa4-9e30ec938f63" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b94f553d-5f46-4b31-87ee-a856cbcc0256" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/667d55e7-2873-4b5a-b1fa-90064fc8a4d9" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2df97bea-1acd-4e51-b6cd-2a2f61a5fa3b" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e3bae8b5-cfbc-423f-9591-d422d0312e84" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5a4ca125-e10d-443d-b681-87a36f2a0fc5" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/83469242-fe29-4147-903f-6f326dce24ae" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3f91c15b-b867-4f79-a976-aff1e05c27d9" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5d56ada7-00b7-49cc-99ba-35d2a0f47c32" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e2910ee8-6f70-464a-9941-5aca9cc808bf" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e876510c-3abe-4548-b7e0-acd9c4d826c9" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/907382d3-ff61-4171-afb2-50d8cac21812" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e624580b-8581-43b2-a133-df06919be277" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ddda4010-6a79-4f6c-aafe-08e3cb1d8343" />
+
+
+
+
+
+
+
+
+
 
 
 
 </p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Projetos em destaque
-
-
 
 ---
 
